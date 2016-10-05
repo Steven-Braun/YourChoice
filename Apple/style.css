@@ -1,0 +1,31 @@
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+  height: 80px;
+}
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+.footer-background {
+  background-color: white;
+  color: darkslategray;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.white{
+  color:white;
+}
+.left.column{
+  color:black;
+  margin-top:200px;
+}
+.gradbackground{
+  background: url('http://i4.mirror.co.uk/incoming/article8789252.ece/ALTERNATES/s1200/The-Apple-iPhone7-and-AirPods-are-displayed-during-an-Apple-media-event-in-San-Francisco.jpg"');
+  background-size: cover;
+  height: 800px;
+  color: black;
+  font-size: 70px;
+  margin-top:-50px;
+}
